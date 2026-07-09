@@ -9,7 +9,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 TOKEN = os.environ.get("GH_TOKEN", "")
 REPO  = os.environ.get("GH_REPO", "")
 API   = f"https://api.github.com/repos/{REPO}/contents"
-H     = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"}
+HEADERS = {"Authorization": f"token {TOKEN}", "Accept": "application/vnd.github.v3+json"}
 
 def get_sha(path):
     r = requests.get(
