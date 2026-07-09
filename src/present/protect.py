@@ -5,10 +5,10 @@
 """
 import os, base64
 
-PW_HASH = os.environ.get(
-    "ORACLE_PW_HASH",
+# 注意：Actions 中未定義的 secret 會給「空字串」而非缺失，
+# 必須用 or 語義 fallback（get 的 default 對空字串不生效）
+PW_HASH = os.environ.get("ORACLE_PW_HASH") or \
     "3ac22acab4270f1d078564ef14475d2ad239398b61104e839cb73b7c1f65eb63"
-)
 
 def wrap_password(html_str):
     """
