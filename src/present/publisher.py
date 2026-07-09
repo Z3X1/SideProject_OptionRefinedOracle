@@ -3,7 +3,9 @@
 [LAYER: L6 PRESENT]
 職責：GitHub API 發佈：SHA-fetch→PUT 更新（dashboard wrap 驗證防裸推、狀態文件批次同步）。
 """
-import requests, base64, os
+import requests, base64, os, sys
+# path bootstrap：直接執行本檔時把 src/ 加入 sys.path（present/ 的上一層）
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 TOKEN = os.environ.get("GH_TOKEN", "")
 REPO  = os.environ.get("GH_REPO", "")
 API   = f"https://api.github.com/repos/{REPO}/contents"
