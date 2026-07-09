@@ -1,0 +1,1091 @@
+{
+  "records": [
+    {
+      "snapshot_num": 23,
+      "expiry": "3JUL26",
+      "timestamp": "2026-06-27T19:01:32.884435+00:00",
+      "predicted_median": 60676.06,
+      "predicted_mode": 60480.89,
+      "sigma": 4317.37,
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 24278.71,
+        "gex": 6048.09,
+        "behavior": 17007.18,
+        "bayesian": 7294.0,
+        "timedecay": 6048.09
+      },
+      "weights_used": {
+        "gbm": 0.4,
+        "gex": 0.1,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.1
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 14.72,
+        "dvol": 51.54644,
+        "pcr_main": 1.0,
+        "macd_4h": 367.99,
+        "regime_pos": 1.0,
+        "gamma_flip": 56588.0,
+        "contradiction": 1.0
+      },
+      "error_sigma": 0.2434,
+      "error_usd": 1050.86,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 24,
+      "expiry": "3JUL26",
+      "timestamp": "2026-06-27T19:17:00.316279+00:00",
+      "predicted_median": 60676.05,
+      "predicted_mode": 60480.9,
+      "sigma": 4316.74,
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 24278.7,
+        "gex": 6048.09,
+        "behavior": 17007.17,
+        "bayesian": 7294.0,
+        "timedecay": 6048.09
+      },
+      "weights_used": {
+        "gbm": 0.4,
+        "gex": 0.1,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.1
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 14.89,
+        "dvol": 51.53893,
+        "pcr_main": 1.0,
+        "macd_4h": 369.42,
+        "regime_pos": 1.0,
+        "gamma_flip": 56638.0,
+        "contradiction": 1.0
+      },
+      "error_sigma": 0.2434,
+      "error_usd": 1050.87,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 26,
+      "expiry": "3JUL26",
+      "timestamp": "2026-06-28T15:58:27.003308+00:00",
+      "predicted_median": 59704.87,
+      "predicted_mode": 59780.17,
+      "sigma": 4278.33,
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 23912.07,
+        "gex": 5978.02,
+        "behavior": 16509.13,
+        "bayesian": 7327.64,
+        "timedecay": 5978.02
+      },
+      "weights_used": {
+        "gbm": 0.4,
+        "gex": 0.1,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.1
+      },
+      "signals": {
+        "fr": 7e-05,
+        "skew": 20.16,
+        "dvol": 51.67905,
+        "pcr_main": null,
+        "macd_4h": 219.65,
+        "regime_pos": 1.0,
+        "gamma_flip": 57828.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.4726,
+      "error_usd": 2022.05,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 28,
+      "expiry": "3JUL26",
+      "timestamp": "2026-06-29T19:37:08.388656+00:00",
+      "predicted_median": 60512.05,
+      "predicted_mode": 60236.18,
+      "sigma": 3307.7,
+      "regime_at_prediction": "POS",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 16866.13,
+        "gex": 12047.24,
+        "behavior": 17120.82,
+        "bayesian": 7249.51,
+        "timedecay": 7228.34
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 14.24,
+        "dvol": 52.45471,
+        "pcr_main": 1.125,
+        "macd_4h": -332.87,
+        "regime_pos": 1.0,
+        "gamma_flip": 58099.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.3673,
+      "error_usd": 1214.87,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 29,
+      "expiry": "3JUL26",
+      "timestamp": "2026-06-30T06:06:36.422277+00:00",
+      "predicted_median": 59636.77,
+      "predicted_mode": 59448.57,
+      "sigma": 2775.94,
+      "regime_at_prediction": "POS",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 16645.6,
+        "gex": 11889.71,
+        "behavior": 16820.48,
+        "bayesian": 7147.15,
+        "timedecay": 7133.83
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 11.95,
+        "dvol": 51.50553,
+        "pcr_main": 1.293,
+        "macd_4h": -316.36,
+        "regime_pos": 1.0,
+        "gamma_flip": 58424.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.753,
+      "error_usd": 2090.15,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 30,
+      "expiry": "3JUL26",
+      "timestamp": "2026-06-30T10:53:10.597416+00:00",
+      "predicted_median": 59404.96,
+      "predicted_mode": 59217.49,
+      "sigma": 2765.17,
+      "regime_at_prediction": "POS",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 16580.9,
+        "gex": 11843.5,
+        "behavior": 16755.1,
+        "bayesian": 7119.37,
+        "timedecay": 7106.1
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 17.93,
+        "dvol": 51.50594,
+        "pcr_main": 1.272,
+        "macd_4h": -345.73,
+        "regime_pos": 1.0,
+        "gamma_flip": 58456.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.8397,
+      "error_usd": 2321.96,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 31,
+      "expiry": "3JUL26",
+      "timestamp": "2026-06-30T16:21:29.423718+00:00",
+      "predicted_median": 58219.92,
+      "predicted_mode": 58303.26,
+      "sigma": 2741.69,
+      "regime_at_prediction": "NEG",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 14575.82,
+        "gex": 8745.49,
+        "behavior": 18591.24,
+        "bayesian": 9310.98,
+        "timedecay": 6996.39
+      },
+      "weights_used": {
+        "gbm": 0.25,
+        "gex": 0.15,
+        "behavior": 0.32,
+        "bayesian": 0.16,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 25.73,
+        "dvol": 51.86932,
+        "pcr_main": 1.524,
+        "macd_4h": -509.19,
+        "regime_pos": 0.0,
+        "gamma_flip": 58781.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 1.2791,
+      "error_usd": 3507.0,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 32,
+      "expiry": "3JUL26",
+      "timestamp": "2026-06-30T21:24:10.201979+00:00",
+      "predicted_median": 58468.11,
+      "predicted_mode": 58420.0,
+      "sigma": 2733.76,
+      "regime_at_prediction": "NEG",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 14605.0,
+        "gex": 8763.0,
+        "behavior": 18760.01,
+        "bayesian": 9329.7,
+        "timedecay": 7010.4
+      },
+      "weights_used": {
+        "gbm": 0.25,
+        "gex": 0.15,
+        "behavior": 0.32,
+        "bayesian": 0.16,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 18.98,
+        "dvol": 51.61596,
+        "pcr_main": 1.512,
+        "macd_4h": -516.14,
+        "regime_pos": 0.0,
+        "gamma_flip": 58491.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 1.1921,
+      "error_usd": 3258.81,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 33,
+      "expiry": "3JUL26",
+      "timestamp": "2026-07-01T05:56:35.773581+00:00",
+      "predicted_median": 59087.0,
+      "predicted_mode": 59055.92,
+      "sigma": 2247.07,
+      "regime_at_prediction": "POS",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 16535.66,
+        "gex": 11811.18,
+        "behavior": 16559.55,
+        "bayesian": 7093.9,
+        "timedecay": 7086.71
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 8e-05,
+        "skew": 19.68,
+        "dvol": 51.40265,
+        "pcr_main": 1.491,
+        "macd_4h": -461.87,
+        "regime_pos": 1.0,
+        "gamma_flip": 59001.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 1.1748,
+      "error_usd": 2639.92,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 34,
+      "expiry": "3JUL26",
+      "timestamp": "2026-07-01T11:19:57.017673+00:00",
+      "predicted_median": 58509.24,
+      "predicted_mode": 58637.32,
+      "sigma": 2224.02,
+      "regime_at_prediction": "NEG",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 14659.33,
+        "gex": 8795.6,
+        "behavior": 18645.35,
+        "bayesian": 9372.48,
+        "timedecay": 7036.48
+      },
+      "weights_used": {
+        "gbm": 0.25,
+        "gex": 0.15,
+        "behavior": 0.32,
+        "bayesian": 0.16,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 5e-05,
+        "skew": 21.27,
+        "dvol": 51.2385,
+        "pcr_main": 1.483,
+        "macd_4h": -495.26,
+        "regime_pos": 0.0,
+        "gamma_flip": 59065.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 1.4468,
+      "error_usd": 3217.68,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 35,
+      "expiry": "3JUL26",
+      "timestamp": "2026-07-01T15:26:17.141717+00:00",
+      "predicted_median": 60385.25,
+      "predicted_mode": 60335.86,
+      "sigma": 2314.01,
+      "regime_at_prediction": "POS",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 16894.04,
+        "gex": 12067.17,
+        "behavior": 16941.12,
+        "bayesian": 7242.62,
+        "timedecay": 7240.3
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 3e-05,
+        "skew": 3.13,
+        "dvol": 51.81088,
+        "pcr_main": 1.013,
+        "macd_4h": -368.8,
+        "regime_pos": 1.0,
+        "gamma_flip": 57304.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.5798,
+      "error_usd": 1341.67,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 36,
+      "expiry": "3JUL26",
+      "timestamp": "2026-07-01T21:23:12.670943+00:00",
+      "predicted_median": 60621.86,
+      "predicted_mode": 60446.32,
+      "sigma": 2326.82,
+      "regime_at_prediction": "POS",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 16924.97,
+        "gex": 12089.26,
+        "behavior": 17095.8,
+        "bayesian": 7258.27,
+        "timedecay": 7253.56
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 6.33,
+        "dvol": 52.00252,
+        "pcr_main": 1.008,
+        "macd_4h": -183.5,
+        "regime_pos": 1.0,
+        "gamma_flip": 56588.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.4749,
+      "error_usd": 1105.06,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 37,
+      "expiry": "3JUL26",
+      "timestamp": "2026-07-02T05:54:43.718972+00:00",
+      "predicted_median": 60600.2,
+      "predicted_mode": 60492.18,
+      "sigma": 1676.46,
+      "regime_at_prediction": "POS",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 16937.81,
+        "gex": 12098.44,
+        "behavior": 17043.43,
+        "bayesian": 7261.46,
+        "timedecay": 7259.06
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 8.93,
+        "dvol": 52.94688,
+        "pcr_main": 1.014,
+        "macd_4h": -9.62,
+        "regime_pos": 1.0,
+        "gamma_flip": 58074.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.6721,
+      "error_usd": 1126.72,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 38,
+      "expiry": "3JUL26",
+      "timestamp": "2026-07-02T10:33:05.982294+00:00",
+      "predicted_median": 61284.01,
+      "predicted_mode": 61174.03,
+      "sigma": 1702.59,
+      "regime_at_prediction": "POS",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 17128.73,
+        "gex": 12234.81,
+        "behavior": 17235.99,
+        "bayesian": 7343.61,
+        "timedecay": 7340.88
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 16.18,
+        "dvol": 53.17265,
+        "pcr_main": 0.814,
+        "macd_4h": 73.3,
+        "regime_pos": 1.0,
+        "gamma_flip": 58000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.2601,
+      "error_usd": 442.91,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 39,
+      "expiry": "3JUL26",
+      "timestamp": "2026-07-02T16:02:39.935963+00:00",
+      "predicted_median": 61587.34,
+      "predicted_mode": 61493.07,
+      "sigma": 1713.8,
+      "regime_at_prediction": "POS",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 17218.06,
+        "gex": 12298.61,
+        "behavior": 17309.59,
+        "bayesian": 7381.91,
+        "timedecay": 7379.17
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 9e-05,
+        "skew": 14.05,
+        "dvol": 53.24509,
+        "pcr_main": 0.889,
+        "macd_4h": 290.71,
+        "regime_pos": 1.0,
+        "gamma_flip": 58000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.0814,
+      "error_usd": 139.58,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 40,
+      "expiry": "3JUL26",
+      "timestamp": "2026-07-02T20:59:34.344527+00:00",
+      "predicted_median": 61544.18,
+      "predicted_mode": 61508.15,
+      "sigma": 1702.2,
+      "regime_at_prediction": "POS",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 17222.28,
+        "gex": 12301.63,
+        "behavior": 17255.58,
+        "bayesian": 7383.7,
+        "timedecay": 7380.98
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 4e-05,
+        "skew": 13.93,
+        "dvol": 52.87176,
+        "pcr_main": 0.884,
+        "macd_4h": 351.24,
+        "regime_pos": 1.0,
+        "gamma_flip": 58000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.1074,
+      "error_usd": 182.74,
+      "corrupted_gex": true
+    },
+    {
+      "snapshot_num": 41,
+      "expiry": "10JUL26",
+      "timestamp": "2026-07-03T05:48:47.299217+00:00",
+      "predicted_median": 61935.44,
+      "predicted_mode": 61606.17,
+      "sigma": 4437.63,
+      "regime_at_prediction": "POS",
+      "actual_settlement": null,
+      "components": {
+        "gbm": 17249.73,
+        "gex": 12321.23,
+        "behavior": 17529.3,
+        "bayesian": 7442.44,
+        "timedecay": 7392.74
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 13.67,
+        "dvol": 52.0145,
+        "pcr_main": 0.636,
+        "macd_4h": 431.43,
+        "regime_pos": 1.0,
+        "gamma_flip": 56000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": null,
+      "error_usd": null
+    },
+    {
+      "snapshot_num": 42,
+      "expiry": "3JUL26",
+      "timestamp": "2026-07-03T06:40:25.460513+00:00",
+      "t_days_at_record": 1,
+      "predicted_median": 61661.71,
+      "predicted_mode": 61553.56,
+      "sigma": 1674.18,
+      "regime_at_prediction": "POS",
+      "actual_settlement": 61726.92,
+      "components": {
+        "gbm": 17235.0,
+        "gex": 12310.71,
+        "behavior": 17340.47,
+        "bayesian": 7389.11,
+        "timedecay": 7386.43
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 12.16,
+        "dvol": 51.96315,
+        "pcr_main": 0.908,
+        "macd_4h": 427.04,
+        "regime_pos": 1.0,
+        "gamma_flip": 58000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.039,
+      "error_usd": 65.21
+    },
+    {
+      "snapshot_num": 42,
+      "expiry": "10JUL26",
+      "timestamp": "2026-07-03T09:08:40.360317+00:00",
+      "t_days_at_record": 7,
+      "predicted_median": 61864.36,
+      "predicted_mode": 61536.38,
+      "sigma": 4420.23,
+      "regime_at_prediction": "POS",
+      "actual_settlement": null,
+      "components": {
+        "gbm": 17230.19,
+        "gex": 12307.28,
+        "behavior": 17508.66,
+        "bayesian": 7433.87,
+        "timedecay": 7384.36
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 14.27,
+        "dvol": 51.86925,
+        "pcr_main": 0.634,
+        "macd_4h": 460.1,
+        "regime_pos": 1.0,
+        "gamma_flip": 56000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": null,
+      "error_usd": null
+    },
+    {
+      "snapshot_num": 57,
+      "expiry": "10JUL26",
+      "timestamp": "2026-07-07T16:14:46.723250+00:00",
+      "t_days_at_record": 3,
+      "predicted_median": 63815.4,
+      "predicted_mode": 63000,
+      "sigma": 2990.5,
+      "regime_at_prediction": "POS",
+      "spot_at_record": 63785.35,
+      "actual_settlement": null,
+      "components": {
+        "gbm": 17859.9,
+        "gex": 12600.0,
+        "behavior": 18133.62,
+        "bayesian": 7661.88,
+        "timedecay": 7560.0
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 6e-05,
+        "skew": -6.19,
+        "skew_raw": 5.32,
+        "dvol": 51.71402,
+        "pcr_main": 0.471,
+        "macd_4h": 512.32,
+        "regime_pos": 1.0,
+        "gamma_flip": 56000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": null,
+      "error_usd": null
+    },
+    {
+      "snapshot_num": 59,
+      "expiry": "10JUL26",
+      "timestamp": "2026-07-08T03:50:21.860316+00:00",
+      "t_days_at_record": 2.17,
+      "predicted_median": 63080.46,
+      "predicted_mode": 63000,
+      "sigma": 2420.41,
+      "regime_at_prediction": "POS",
+      "spot_at_record": 62843.57,
+      "actual_settlement": null,
+      "components": {
+        "gbm": 17596.2,
+        "gex": 12600.0,
+        "behavior": 17775.29,
+        "bayesian": 7548.97,
+        "timedecay": 7560.0
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 8e-05,
+        "skew": -0.58,
+        "skew_raw": 10.95,
+        "dvol": 52.03059,
+        "pcr_main": 0.563,
+        "macd_4h": 393.42,
+        "regime_pos": 1.0,
+        "gamma_flip": 56000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": null,
+      "error_usd": null
+    },
+    {
+      "snapshot_num": 60,
+      "expiry": "10JUL26",
+      "timestamp": "2026-07-08T09:39:24.639301+00:00",
+      "t_days_at_record": 1.93,
+      "predicted_median": 62410.79,
+      "predicted_mode": 63000,
+      "sigma": 2402.16,
+      "regime_at_prediction": "POS",
+      "spot_at_record": 62052.69,
+      "actual_settlement": null,
+      "components": {
+        "gbm": 17374.75,
+        "gex": 12600.0,
+        "behavior": 17422.02,
+        "bayesian": 7454.01,
+        "timedecay": 7560.0
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 8e-05,
+        "skew": 1.39,
+        "skew_raw": 12.97,
+        "dvol": 52.29655,
+        "pcr_main": 0.853,
+        "macd_4h": 207.17,
+        "regime_pos": 1.0,
+        "gamma_flip": 56000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": null,
+      "error_usd": null
+    },
+    {
+      "snapshot_num": 61,
+      "expiry": "10JUL26",
+      "timestamp": "2026-07-08T14:42:41.719656+00:00",
+      "t_days_at_record": 1.72,
+      "predicted_median": 62348.79,
+      "predicted_mode": 63000,
+      "sigma": 2388.44,
+      "regime_at_prediction": "POS",
+      "spot_at_record": 61834.4,
+      "actual_settlement": null,
+      "components": {
+        "gbm": 17313.63,
+        "gex": 12600.0,
+        "behavior": 17447.39,
+        "bayesian": 7427.77,
+        "timedecay": 7560.0
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0001,
+        "skew": 1.9,
+        "skew_raw": 13.55,
+        "dvol": 52.18142,
+        "pcr_main": 0.858,
+        "macd_4h": 112.19,
+        "regime_pos": 1.0,
+        "gamma_flip": 56000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": null,
+      "error_usd": null
+    },
+    {
+      "snapshot_num": 62,
+      "expiry": "10JUL26",
+      "timestamp": "2026-07-09T05:08:36.061545+00:00",
+      "t_days_at_record": 1.12,
+      "predicted_median": 62507.56,
+      "predicted_mode": 63000,
+      "sigma": 1708.85,
+      "regime_at_prediction": "POS",
+      "spot_at_record": 62363.5,
+      "actual_settlement": null,
+      "components": {
+        "gbm": 17461.78,
+        "gex": 12600.0,
+        "behavior": 17399.43,
+        "bayesian": 7486.35,
+        "timedecay": 7560.0
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": -0.0,
+        "skew": 3.27,
+        "skew_raw": 15.0,
+        "dvol": 52.35047,
+        "pcr_main": 0.614,
+        "macd_4h": -69.33,
+        "regime_pos": 1.0,
+        "gamma_flip": 56000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": null,
+      "error_usd": null
+    }
+  ],
+  "current_weights": {
+    "gbm": 0.3,
+    "gex": 0.18,
+    "behavior": 0.28,
+    "bayesian": 0.12,
+    "timedecay": 0.12
+  },
+  "weight_history": [
+    {
+      "timestamp": "2026-07-04T05:41:36.494293+00:00",
+      "samples": 17,
+      "old_weights": {
+        "gbm": 0.3,
+        "gex": 0.18,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "new_weights": {
+        "gbm": 0.2775,
+        "gex": 0.1665,
+        "behavior": 0.3246,
+        "bayesian": 0.1204,
+        "timedecay": 0.111
+      },
+      "regime_weights": {
+        "POS": {
+          "gbm": 0.28,
+          "gex": 0.2,
+          "behavior": 0.28,
+          "bayesian": 0.12,
+          "timedecay": 0.12
+        },
+        "NEG": {
+          "gbm": 0.25,
+          "gex": 0.15,
+          "behavior": 0.32,
+          "bayesian": 0.16,
+          "timedecay": 0.12
+        }
+      },
+      "l1_weights": {
+        "gbm": 0.3,
+        "gex": 0.18,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "l4_weights": {
+        "gbm": 0.225,
+        "gex": 0.135,
+        "behavior": 0.42865,
+        "bayesian": 0.12135,
+        "timedecay": 0.09
+      },
+      "avg_error_usd": 1774.35,
+      "avg_error_sigma": 0.673,
+      "improvement_pct": 0.47,
+      "frozen": false
+    },
+    {
+      "timestamp": "2026-07-04T05:43:23.296813+00:00",
+      "samples": 17,
+      "old_weights": {
+        "gbm": 0.2775,
+        "gex": 0.1665,
+        "behavior": 0.3246,
+        "bayesian": 0.1204,
+        "timedecay": 0.111
+      },
+      "new_weights": {
+        "gbm": 0.26175,
+        "gex": 0.15705,
+        "behavior": 0.35728,
+        "bayesian": 0.11922,
+        "timedecay": 0.1047
+      },
+      "regime_weights": {
+        "POS": {
+          "gbm": 0.28,
+          "gex": 0.2,
+          "behavior": 0.28,
+          "bayesian": 0.12,
+          "timedecay": 0.12
+        },
+        "NEG": {
+          "gbm": 0.25,
+          "gex": 0.15,
+          "behavior": 0.32,
+          "bayesian": 0.16,
+          "timedecay": 0.12
+        }
+      },
+      "l1_weights": {
+        "gbm": 0.2775,
+        "gex": 0.1665,
+        "behavior": 0.3246,
+        "bayesian": 0.1204,
+        "timedecay": 0.111
+      },
+      "l4_weights": {
+        "gbm": 0.225,
+        "gex": 0.135,
+        "behavior": 0.43354,
+        "bayesian": 0.11646,
+        "timedecay": 0.09
+      },
+      "avg_error_usd": 1771.51,
+      "avg_error_sigma": 0.672,
+      "improvement_pct": 0.32,
+      "frozen": false
+    },
+    {
+      "timestamp": "2026-07-04T06:30:00+00:00",
+      "note": "MANUAL ROLLBACK to v2.0 baseline \u2014 n=17 single-cycle samples statistically invalid (effective n=1), S23-S40 gex components corrupted (GEX Pin=Spot bug)",
+      "new_weights": {
+        "gbm": 0.3,
+        "gex": 0.18,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      }
+    }
+  ],
+  "last_optimized": "2026-07-04T05:43:23.296842+00:00",
+  "regime_weights": {
+    "POS": {
+      "gbm": 0.28,
+      "gex": 0.2,
+      "behavior": 0.28,
+      "bayesian": 0.12,
+      "timedecay": 0.12
+    },
+    "NEG": {
+      "gbm": 0.25,
+      "gex": 0.15,
+      "behavior": 0.32,
+      "bayesian": 0.16,
+      "timedecay": 0.12
+    }
+  },
+  "signal_contributions": {
+    "fr": {
+      "direction_accuracy": 1.0,
+      "avg_abs_value": 0.0001,
+      "n": 17
+    },
+    "skew": {
+      "direction_accuracy": 0.0,
+      "avg_abs_value": 14.9565,
+      "n": 17
+    },
+    "pcr_main": {
+      "direction_accuracy": 0.0,
+      "avg_abs_value": 1.5025,
+      "n": 4
+    },
+    "macd_4h": {
+      "direction_accuracy": 0.412,
+      "avg_abs_value": 331.6876,
+      "n": 17
+    },
+    "regime_pos": {
+      "direction_accuracy": 0.824,
+      "avg_abs_value": 0.8235,
+      "n": 17
+    },
+    "contradiction": {
+      "direction_accuracy": 0.0,
+      "avg_abs_value": 1.0,
+      "n": 2
+    }
+  },
+  "convergence": {
+    "converged": false,
+    "frozen": false,
+    "consecutive_no_improve": 0,
+    "avg_error_sigma_history": []
+  },
+  "optimization_history": [
+    {
+      "ts": "2026-07-04T05:41:36.494316+00:00",
+      "n": 17,
+      "err_sigma": 0.673,
+      "frozen": false
+    },
+    {
+      "ts": "2026-07-04T05:43:23.296837+00:00",
+      "n": 17,
+      "err_sigma": 0.672,
+      "frozen": false
+    }
+  ]
+}

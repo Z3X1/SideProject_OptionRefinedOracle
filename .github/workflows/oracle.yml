@@ -1,0 +1,45 @@
+name: Option-Refined Oracle
+
+on:
+  schedule:
+    - cron: "15 * * * *"   # 每小時守門，目標邊界 UTC 02/08/14/20（台灣 10/16/22/04）
+  workflow_dispatch:
+
+jobs:
+  oracle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Run guard
+        id: guard
+        run: python src/run_guard.py
+      - name: Install deps
+        if: steps.guard.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
+        run: pip install requests
+      - name: L2 acquisition
+        if: steps.guard.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
+        run: python src/data/acquisition.py
+      - name: L4-L6 pipeline
+        if: steps.guard.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          OUTPUT_DIR: docs/oracle
+        run: |
+          mkdir -p docs/oracle data
+          python src/pipeline.py
+      - name: L6 publish
+        if: steps.guard.outputs.run == 'true' || github.event_name == 'workflow_dispatch'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          ORACLE_PW_HASH: ${{ secrets.ORACLE_PW_HASH }}
+        run: python src/present/publisher.py
