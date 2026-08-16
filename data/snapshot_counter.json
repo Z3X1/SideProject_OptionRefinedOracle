@@ -4,16 +4,16 @@
     "uft_median": 60288
   },
   "count": 170,
-  "last_spot": 62999.025,
-  "last_fr": 0.0008633565962399999,
+  "last_spot": 63032.95,
+  "last_fr": 0.00424915502075,
   "last_ls": 0,
-  "last_oi": 3.3696,
+  "last_oi": 3.3844,
   "hard_triggers": [],
-  "last_trigger_ts": "2026-08-16T08:48:33.626603+00:00",
+  "last_trigger_ts": "2026-08-16T14:41:27.894283+00:00",
   "fr_armed": {
     "-0.01": true,
     "-0.005": true,
-    "0.0": false,
+    "0.0": true,
     "0.005": true,
     "0.01": true
   },
