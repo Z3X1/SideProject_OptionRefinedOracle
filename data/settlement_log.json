@@ -5670,7 +5670,7 @@
       "sigma": 5139.95,
       "regime_at_prediction": "POS",
       "spot_at_record": 77414.99,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 21676.2,
         "gex": 16400.0,
@@ -5696,8 +5696,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.264,
+      "error_usd": 1357.04,
+      "emh_error_usd": 3337.69,
+      "beats_emh": true
     },
     {
       "snapshot_num": 203,
@@ -5709,7 +5711,7 @@
       "sigma": 4791.72,
       "regime_at_prediction": "POS",
       "spot_at_record": 77772.66,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 21776.35,
         "gex": 16400.0,
@@ -5735,8 +5737,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.2694,
+      "error_usd": 1290.83,
+      "emh_error_usd": 2980.02,
+      "beats_emh": true
     },
     {
       "snapshot_num": 204,
@@ -5748,7 +5752,7 @@
       "sigma": 4795.69,
       "regime_at_prediction": "POS",
       "spot_at_record": 78097.09,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 21867.18,
         "gex": 16400.0,
@@ -5774,8 +5778,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.2491,
+      "error_usd": 1194.49,
+      "emh_error_usd": 2655.59,
+      "beats_emh": true
     },
     {
       "snapshot_num": 205,
@@ -5787,7 +5793,7 @@
       "sigma": 4407.66,
       "regime_at_prediction": "POS",
       "spot_at_record": 78650.76,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 22022.21,
         "gex": 16400.0,
@@ -5813,8 +5819,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.0783,
+      "error_usd": 345.32,
+      "emh_error_usd": 2101.92,
+      "beats_emh": true
     },
     {
       "snapshot_num": 206,
@@ -5826,7 +5834,7 @@
       "sigma": 4428.92,
       "regime_at_prediction": "POS",
       "spot_at_record": 78477.17,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 21973.61,
         "gex": 16400.0,
@@ -5852,8 +5860,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.1901,
+      "error_usd": 841.8,
+      "emh_error_usd": 2275.51,
+      "beats_emh": true
     },
     {
       "snapshot_num": 207,
@@ -5865,7 +5875,7 @@
       "sigma": 3960.49,
       "regime_at_prediction": "POS",
       "spot_at_record": 77891.65,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 21809.66,
         "gex": 16400.0,
@@ -5891,8 +5901,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.291,
+      "error_usd": 1152.33,
+      "emh_error_usd": 2861.03,
+      "beats_emh": true
     },
     {
       "snapshot_num": 208,
@@ -5904,7 +5916,7 @@
       "sigma": 3982.49,
       "regime_at_prediction": "POS",
       "spot_at_record": 77946.62,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 21825.06,
         "gex": 16400.0,
@@ -5930,8 +5942,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.2312,
+      "error_usd": 920.87,
+      "emh_error_usd": 2806.06,
+      "beats_emh": true
     },
     {
       "snapshot_num": 209,
@@ -5943,7 +5957,7 @@
       "sigma": 4052.48,
       "regime_at_prediction": "POS",
       "spot_at_record": 78935.1,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 22101.83,
         "gex": 16400.0,
@@ -5969,8 +5983,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.1211,
+      "error_usd": 490.87,
+      "emh_error_usd": 1817.58,
+      "beats_emh": true
     },
     {
       "snapshot_num": 210,
@@ -5982,7 +5998,7 @@
       "sigma": 3506.71,
       "regime_at_prediction": "POS",
       "spot_at_record": 78843.98,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 22076.31,
         "gex": 16400.0,
@@ -6008,8 +6024,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.1576,
+      "error_usd": 552.61,
+      "emh_error_usd": 1908.7,
+      "beats_emh": true
     },
     {
       "snapshot_num": 212,
@@ -6021,7 +6039,7 @@
       "sigma": 2838.71,
       "regime_at_prediction": "POS",
       "spot_at_record": 77676.51,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 21749.42,
         "gex": 16400.0,
@@ -6047,8 +6065,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.517,
+      "error_usd": 1467.52,
+      "emh_error_usd": 3076.17,
+      "beats_emh": true
     },
     {
       "snapshot_num": 213,
@@ -6060,7 +6080,7 @@
       "sigma": 2802.35,
       "regime_at_prediction": "POS",
       "spot_at_record": 76430.26,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 21400.47,
         "gex": 15000.0,
@@ -6086,8 +6106,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 1.6539,
+      "error_usd": 4634.79,
+      "emh_error_usd": 4322.42,
+      "beats_emh": false
     },
     {
       "snapshot_num": 214,
@@ -6099,7 +6121,7 @@
       "sigma": 2837.83,
       "regime_at_prediction": "POS",
       "spot_at_record": 77411.01,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 21675.08,
         "gex": 16400.0,
@@ -6125,8 +6147,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.6512,
+      "error_usd": 1848.03,
+      "emh_error_usd": 3341.67,
+      "beats_emh": true
     },
     {
       "snapshot_num": 215,
@@ -6138,7 +6162,7 @@
       "sigma": 2016.34,
       "regime_at_prediction": "POS",
       "spot_at_record": 77524.99,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 21707.0,
         "gex": 16400.0,
@@ -6164,8 +6188,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.8031,
+      "error_usd": 1619.34,
+      "emh_error_usd": 3227.69,
+      "beats_emh": true
     },
     {
       "snapshot_num": 216,
@@ -6177,7 +6203,7 @@
       "sigma": 2143.02,
       "regime_at_prediction": "POS",
       "spot_at_record": 80676.59,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 22589.44,
         "gex": 16400.0,
@@ -6203,8 +6229,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.2044,
+      "error_usd": 437.94,
+      "emh_error_usd": 76.09,
+      "beats_emh": false
     },
     {
       "snapshot_num": 217,
@@ -6216,7 +6244,7 @@
       "sigma": 1986.75,
       "regime_at_prediction": "POS",
       "spot_at_record": 81132.43,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 22717.08,
         "gex": 16400.0,
@@ -6242,8 +6270,10 @@
         "gamma_flip": 60000.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 0.3277,
+      "error_usd": 650.98,
+      "emh_error_usd": 379.75,
+      "beats_emh": false
     },
     {
       "snapshot_num": 218,
@@ -6255,7 +6285,7 @@
       "sigma": 1965.28,
       "regime_at_prediction": "POS",
       "spot_at_record": 80921.2,
-      "actual_settlement": null,
+      "actual_settlement": 80752.68,
       "components": {
         "gbm": 22657.93,
         "gex": 16400.0,
@@ -6279,6 +6309,47 @@
         "macd_4h": 731.51,
         "regime_pos": 1.0,
         "gamma_flip": 60000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 0.2754,
+      "error_usd": 541.23,
+      "emh_error_usd": 168.52,
+      "beats_emh": false
+    },
+    {
+      "snapshot_num": 219,
+      "expiry": "11SEP26",
+      "timestamp": "2026-09-04T11:21:58.692853+00:00",
+      "t_days_at_record": 6.86,
+      "predicted_median": 82019.5,
+      "predicted_mode": 81000,
+      "sigma": 5024.87,
+      "regime_at_prediction": "POS",
+      "spot_at_record": 81187.12,
+      "actual_settlement": null,
+      "components": {
+        "gbm": 22732.4,
+        "gex": 16200.0,
+        "behavior": 23619.13,
+        "bayesian": 9747.97,
+        "timedecay": 9720.0
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 7e-05,
+        "skew": -2.59,
+        "skew_raw": -0.98,
+        "dvol": 44.6925,
+        "pcr_main": 0.592,
+        "macd_4h": 786.9,
+        "regime_pos": 1.0,
+        "gamma_flip": 73000.0,
         "contradiction": 0.0
       },
       "error_sigma": null,
