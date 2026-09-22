@@ -8179,6 +8179,45 @@
       },
       "error_sigma": null,
       "error_usd": null
+    },
+    {
+      "snapshot_num": 269,
+      "expiry": "25SEP26",
+      "timestamp": "2026-09-22T22:12:37.783293+00:00",
+      "t_days_at_record": 2.41,
+      "predicted_median": 85624.47,
+      "predicted_mode": 85000,
+      "sigma": 2825.96,
+      "regime_at_prediction": "POS",
+      "spot_at_record": 86040.29,
+      "actual_settlement": null,
+      "components": {
+        "gbm": 24091.28,
+        "gex": 17000.0,
+        "behavior": 23995.66,
+        "bayesian": 10337.53,
+        "timedecay": 10200.0
+      },
+      "weights_used": {
+        "gbm": 0.28,
+        "gex": 0.2,
+        "behavior": 0.28,
+        "bayesian": 0.12,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": 0.0,
+        "skew": 6.97,
+        "skew_raw": 9.36,
+        "dvol": 36.22851,
+        "pcr_main": 0.354,
+        "macd_4h": 1866.09,
+        "regime_pos": 1.0,
+        "gamma_flip": 70000.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": null,
+      "error_usd": null
     }
   ],
   "current_weights": {
