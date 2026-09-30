@@ -1,104 +1,104 @@
 {
-  "spot": 82970.395,
-  "fr": 5.91524333611e-05,
-  "oi": 2.8489,
+  "spot": 84567.34,
+  "fr": 5.32749419786e-05,
+  "oi": 2.7537,
   "ls": null,
-  "dvol": 35.422217129198835,
+  "dvol": 36.481718390149815,
   "macd": {
     "15m": {
-      "dif": -90.75,
-      "dea": -68.16,
-      "macd": -45.18
+      "dif": 394.12,
+      "dea": 318.91,
+      "macd": 150.42
     },
     "4h": {
-      "dif": -202.08,
-      "dea": -152.74,
-      "macd": -98.67
+      "dif": -48.99,
+      "dea": -127.37,
+      "macd": 156.75
     },
     "1d": {
-      "dif": 2026.68,
-      "dea": 2187.99,
-      "macd": -322.62
+      "dif": 2154.87,
+      "dea": 2213.63,
+      "macd": -117.51
     }
   },
   "ema": {
     "15m": {
-      "5": 83110.7,
-      "10": 83180.3,
-      "30": 83308.8,
-      "200": 83579.9
+      "5": 84723.5,
+      "10": 84551.3,
+      "30": 84009.1,
+      "200": 83650.1
     },
     "4h": {
-      "5": 83316.8,
-      "10": 83448.2,
-      "30": 83700.5,
-      "200": 79681.3
+      "5": 83907.4,
+      "10": 83753.0,
+      "30": 83783.8,
+      "200": 79772.0
     },
     "1d": {
-      "5": 83575.4,
-      "10": 83289.1,
-      "30": 80418.4,
-      "200": 74409.9
+      "5": 84111.0,
+      "10": 83581.3,
+      "30": 80522.1,
+      "200": 74425.9
     }
   },
   "macd_15m": {
-    "dif": -90.75,
-    "dea": -68.16,
-    "macd": -45.18
+    "dif": 394.12,
+    "dea": 318.91,
+    "macd": 150.42
   },
   "macd_4h": {
-    "dif": -202.08,
-    "dea": -152.74,
-    "macd": -98.67
+    "dif": -48.99,
+    "dea": -127.37,
+    "macd": 156.75
   },
   "macd_1d": {
-    "dif": 2026.68,
-    "dea": 2187.99,
-    "macd": -322.62
+    "dif": 2154.87,
+    "dea": 2213.63,
+    "macd": -117.51
   },
   "options": {
     "2OCT26": {
       "81000": {
-        "call_oi": 312.7,
-        "put_oi": 228.6,
-        "call_iv": 36.56,
-        "put_iv": 36.56
+        "call_oi": 313.3,
+        "put_oi": 249.4,
+        "call_iv": 39.24,
+        "put_iv": 39.24
       },
       "76000": {
-        "call_oi": 40.8,
-        "put_oi": 402.2,
-        "call_iv": 53.67,
-        "put_iv": 53.67
+        "call_oi": 40.7,
+        "put_oi": 403.4,
+        "call_iv": 60.41,
+        "put_iv": 60.41
       },
       "89000": {
-        "call_oi": 192.3,
+        "call_oi": 190.6,
         "put_oi": 4.1,
-        "call_iv": 46.08,
-        "put_iv": 46.08
+        "call_iv": 41.7,
+        "put_iv": 41.7
       },
       "77000": {
         "call_oi": 186.7,
-        "put_oi": 375.4,
-        "call_iv": 50.04,
-        "put_iv": 50.04
+        "put_oi": 374.3,
+        "call_iv": 54.68,
+        "put_iv": 54.68
       },
       "86000": {
-        "call_oi": 1541.1,
-        "put_oi": 1153.4,
-        "call_iv": 38.84,
-        "put_iv": 38.84
+        "call_oi": 1208.9,
+        "put_oi": 1153.3,
+        "call_iv": 35.48,
+        "put_iv": 35.48
       },
       "83000": {
-        "call_oi": 653.9,
-        "put_oi": 618.7,
-        "call_iv": 34.49,
-        "put_iv": 34.49
+        "call_oi": 648.1,
+        "put_oi": 820.4,
+        "call_iv": 34.38,
+        "put_iv": 34.38
       },
       "75000": {
         "call_oi": 4.7,
         "put_oi": 431.5,
-        "call_iv": 55.34,
-        "put_iv": 55.34
+        "call_iv": 60.91,
+        "put_iv": 60.91
       },
       "70000": {
         "call_oi": 3.5,
@@ -108,75 +108,75 @@
       },
       "79000": {
         "call_oi": 366.6,
-        "put_oi": 898.2,
-        "call_iv": 42.26,
-        "put_iv": 42.26
+        "put_oi": 998.9,
+        "call_iv": 45.17,
+        "put_iv": 45.17
       },
       "88000": {
-        "call_oi": 1699.6,
+        "call_oi": 1539.1,
         "put_oi": 413.7,
-        "call_iv": 44.29,
-        "put_iv": 44.29
+        "call_iv": 39.54,
+        "put_iv": 39.54
       },
       "65000": {
         "call_oi": 0.8,
-        "put_oi": 705.9,
+        "put_oi": 705.7,
         "call_iv": 73.57,
         "put_iv": 73.57
       },
       "84500": {
-        "call_oi": 42.5,
-        "put_oi": 4.1,
-        "call_iv": 35.67,
-        "put_iv": 35.67
+        "call_oi": 51.5,
+        "put_oi": 43.5,
+        "call_iv": 34.08,
+        "put_iv": 34.08
       },
       "82500": {
         "call_oi": 0.0,
-        "put_oi": 56.3,
-        "call_iv": 34.35,
-        "put_iv": 34.35
+        "put_oi": 60.5,
+        "call_iv": 35.03,
+        "put_iv": 35.03
       },
       "85000": {
-        "call_oi": 1175.4,
-        "put_oi": 845.6,
-        "call_iv": 36.61,
-        "put_iv": 36.61
+        "call_oi": 971.6,
+        "put_oi": 766.7,
+        "call_iv": 34.55,
+        "put_iv": 34.55
       },
       "72000": {
         "call_oi": 2.6,
-        "put_oi": 243.9,
+        "put_oi": 244.5,
         "call_iv": 66.11,
         "put_iv": 66.11
       },
       "81500": {
         "call_oi": 0.2,
-        "put_oi": 26.1,
-        "call_iv": 35.52,
-        "put_iv": 35.52
+        "put_oi": 33.2,
+        "call_iv": 37.73,
+        "put_iv": 37.73
       },
       "80000": {
-        "call_oi": 869.0,
-        "put_oi": 1406.7,
-        "call_iv": 39.22,
-        "put_iv": 39.22
+        "call_oi": 868.0,
+        "put_oi": 1414.1,
+        "call_iv": 42.94,
+        "put_iv": 42.94
       },
       "83500": {
-        "call_oi": 36.2,
-        "put_oi": 22.1,
-        "call_iv": 34.64,
-        "put_iv": 34.64
+        "call_oi": 43.4,
+        "put_oi": 27.3,
+        "call_iv": 34.0,
+        "put_iv": 34.0
       },
       "95000": {
-        "call_oi": 634.8,
+        "call_oi": 610.7,
         "put_oi": 0.2,
         "call_iv": 50.82,
         "put_iv": 50.82
       },
       "82000": {
-        "call_oi": 1628.4,
-        "put_oi": 1607.1,
-        "call_iv": 35.19,
-        "put_iv": 35.19
+        "call_oi": 1624.2,
+        "put_oi": 1612.2,
+        "call_iv": 36.32,
+        "put_iv": 36.32
       },
       "100000": {
         "call_oi": 228.8,
@@ -185,635 +185,635 @@
         "put_iv": 63.16
       },
       "85500": {
-        "call_oi": 337.1,
+        "call_oi": 386.6,
         "put_oi": 0.0,
-        "call_iv": 37.51,
-        "put_iv": 37.51
+        "call_iv": 35.1,
+        "put_iv": 35.1
       },
       "74000": {
         "call_oi": 1.7,
         "put_oi": 1263.2,
-        "call_iv": 55.44,
-        "put_iv": 55.44
+        "call_iv": 60.93,
+        "put_iv": 60.93
       },
       "92000": {
-        "call_oi": 314.3,
+        "call_oi": 309.3,
         "put_oi": 0.0,
-        "call_iv": 48.08,
-        "put_iv": 48.08
+        "call_iv": 48.63,
+        "put_iv": 48.63
       },
       "90000": {
-        "call_oi": 859.1,
+        "call_oi": 857.1,
         "put_oi": 3.2,
-        "call_iv": 48.0,
-        "put_iv": 48.0
+        "call_iv": 44.13,
+        "put_iv": 44.13
       },
       "84000": {
-        "call_oi": 781.2,
-        "put_oi": 648.1,
-        "call_iv": 35.11,
-        "put_iv": 35.11
+        "call_oi": 808.8,
+        "put_oi": 640.5,
+        "call_iv": 33.82,
+        "put_iv": 33.82
       },
       "87000": {
-        "call_oi": 1050.4,
+        "call_oi": 1071.0,
         "put_oi": 11.7,
-        "call_iv": 41.46,
-        "put_iv": 41.46
+        "call_iv": 37.21,
+        "put_iv": 37.21
       },
       "78000": {
         "call_oi": 452.1,
-        "put_oi": 1566.6,
-        "call_iv": 45.77,
-        "put_iv": 45.77
+        "put_oi": 1560.4,
+        "call_iv": 50.17,
+        "put_iv": 50.17
       },
       "73000": {
         "call_oi": 0.8,
-        "put_oi": 1114.6,
-        "call_iv": 60.71,
-        "put_iv": 60.71
+        "put_oi": 1113.6,
+        "call_iv": 61.32,
+        "put_iv": 61.32
       }
     },
     "30OCT26": {
       "60000": {
         "call_oi": 13.7,
-        "put_oi": 1287.8,
-        "call_iv": 55.0,
-        "put_iv": 55.0
+        "put_oi": 1287.9,
+        "call_iv": 59.74,
+        "put_iv": 59.74
       },
       "76000": {
-        "call_oi": 558.6,
-        "put_oi": 858.9,
-        "call_iv": 35.78,
-        "put_iv": 35.78
+        "call_oi": 494.8,
+        "put_oi": 891.8,
+        "call_iv": 37.66,
+        "put_iv": 37.66
       },
       "45000": {
         "call_oi": 0.9,
         "put_oi": 290.7,
-        "call_iv": 78.02,
-        "put_iv": 78.02
+        "call_iv": 82.59,
+        "put_iv": 82.59
       },
       "66000": {
         "call_oi": 76.9,
         "put_oi": 508.1,
-        "call_iv": 46.4,
-        "put_iv": 46.4
+        "call_iv": 50.26,
+        "put_iv": 50.26
       },
       "58000": {
         "call_oi": 0.0,
-        "put_oi": 330.7,
-        "call_iv": 57.6,
-        "put_iv": 57.6
+        "put_oi": 328.7,
+        "call_iv": 62.67,
+        "put_iv": 62.67
       },
       "90000": {
-        "call_oi": 20171.2,
+        "call_oi": 20113.5,
         "put_oi": 17.9,
-        "call_iv": 34.61,
-        "put_iv": 34.61
+        "call_iv": 34.68,
+        "put_iv": 34.68
       },
       "94000": {
-        "call_oi": 1018.7,
+        "call_oi": 1019.9,
         "put_oi": 0.1,
-        "call_iv": 35.68,
-        "put_iv": 35.68
+        "call_iv": 35.6,
+        "put_iv": 35.6
       },
       "100000": {
         "call_oi": 12956.7,
         "put_oi": 1.3,
-        "call_iv": 38.47,
-        "put_iv": 38.47
+        "call_iv": 38.13,
+        "put_iv": 38.13
       },
       "71000": {
         "call_oi": 956.1,
-        "put_oi": 807.8,
-        "call_iv": 40.23,
-        "put_iv": 40.23
+        "put_oi": 1197.3,
+        "call_iv": 43.3,
+        "put_iv": 43.3
       },
       "106000": {
         "call_oi": 45.8,
         "put_oi": 0.0,
-        "call_iv": 42.23,
-        "put_iv": 42.23
+        "call_iv": 41.41,
+        "put_iv": 41.41
       },
       "40000": {
         "call_oi": 0.3,
-        "put_oi": 211.3,
+        "put_oi": 207.6,
         "call_iv": 85.55,
         "put_iv": 85.55
       },
       "95000": {
         "call_oi": 23350.9,
         "put_oi": 201.2,
-        "call_iv": 36.18,
-        "put_iv": 36.18
+        "call_iv": 35.98,
+        "put_iv": 35.98
       },
       "74000": {
-        "call_oi": 723.9,
-        "put_oi": 1025.2,
-        "call_iv": 37.17,
-        "put_iv": 37.17
+        "call_oi": 658.9,
+        "put_oi": 1112.9,
+        "call_iv": 39.62,
+        "put_iv": 39.62
       },
       "54000": {
         "call_oi": 0.1,
-        "put_oi": 178.1,
-        "call_iv": 63.6,
-        "put_iv": 63.6
+        "put_oi": 179.7,
+        "call_iv": 68.82,
+        "put_iv": 68.82
       },
       "91000": {
-        "call_oi": 1478.1,
+        "call_oi": 1592.2,
         "put_oi": 3.5,
         "call_iv": 34.83,
         "put_iv": 34.83
       },
       "82000": {
-        "call_oi": 1329.7,
-        "put_oi": 291.4,
-        "call_iv": 34.14,
-        "put_iv": 34.14
+        "call_oi": 1329.5,
+        "put_oi": 293.8,
+        "call_iv": 34.67,
+        "put_iv": 34.67
       },
       "64000": {
         "call_oi": 422.1,
         "put_oi": 559.2,
-        "call_iv": 49.15,
-        "put_iv": 49.15
+        "call_iv": 53.45,
+        "put_iv": 53.45
       },
       "75000": {
         "call_oi": 1167.5,
-        "put_oi": 1199.0,
-        "call_iv": 36.42,
-        "put_iv": 36.42
+        "put_oi": 1202.7,
+        "call_iv": 38.6,
+        "put_iv": 38.6
       },
       "85000": {
-        "call_oi": 2355.4,
-        "put_oi": 627.7,
-        "call_iv": 34.07,
-        "put_iv": 34.07
+        "call_oi": 2030.6,
+        "put_oi": 664.1,
+        "call_iv": 34.46,
+        "put_iv": 34.46
       },
       "70000": {
-        "call_oi": 5321.2,
-        "put_oi": 2084.8,
-        "call_iv": 41.34,
-        "put_iv": 41.34
+        "call_oi": 5311.2,
+        "put_oi": 2093.1,
+        "call_iv": 44.49,
+        "put_iv": 44.49
       },
       "86000": {
-        "call_oi": 1146.4,
-        "put_oi": 175.2,
-        "call_iv": 34.16,
-        "put_iv": 34.16
+        "call_oi": 1146.5,
+        "put_oi": 176.6,
+        "call_iv": 34.45,
+        "put_iv": 34.45
       },
       "87000": {
-        "call_oi": 955.1,
+        "call_oi": 960.1,
         "put_oi": 397.1,
-        "call_iv": 34.23,
-        "put_iv": 34.23
+        "call_iv": 34.46,
+        "put_iv": 34.46
       },
       "88000": {
-        "call_oi": 1415.6,
+        "call_oi": 1437.7,
         "put_oi": 2383.0,
-        "call_iv": 34.3,
-        "put_iv": 34.3
+        "call_iv": 34.5,
+        "put_iv": 34.5
       },
       "62000": {
         "call_oi": 13.5,
-        "put_oi": 1260.9,
-        "call_iv": 52.0,
-        "put_iv": 52.0
+        "put_oi": 1261.9,
+        "call_iv": 56.14,
+        "put_iv": 56.14
       },
       "57000": {
         "call_oi": 0.1,
         "put_oi": 206.6,
-        "call_iv": 59.64,
-        "put_iv": 59.64
+        "call_iv": 64.45,
+        "put_iv": 64.45
       },
       "68000": {
-        "call_oi": 514.8,
-        "put_oi": 1335.4,
-        "call_iv": 43.63,
-        "put_iv": 43.63
+        "call_oi": 502.2,
+        "put_oi": 1335.8,
+        "call_iv": 47.37,
+        "put_iv": 47.37
       },
       "48000": {
         "call_oi": 8.5,
         "put_oi": 201.0,
-        "call_iv": 72.18,
-        "put_iv": 72.18
+        "call_iv": 78.1,
+        "put_iv": 78.1
       },
       "104000": {
-        "call_oi": 176.1,
+        "call_oi": 206.3,
         "put_oi": 0.0,
-        "call_iv": 40.9,
-        "put_iv": 40.9
+        "call_iv": 40.24,
+        "put_iv": 40.24
       },
       "80000": {
-        "call_oi": 1399.4,
-        "put_oi": 1483.9,
-        "call_iv": 34.35,
-        "put_iv": 34.35
+        "call_oi": 1384.4,
+        "put_oi": 1711.9,
+        "call_iv": 35.25,
+        "put_iv": 35.25
       },
       "110000": {
-        "call_oi": 1198.0,
+        "call_oi": 1208.0,
         "put_oi": 0.2,
-        "call_iv": 45.14,
-        "put_iv": 45.14
+        "call_iv": 43.74,
+        "put_iv": 43.74
       },
       "67000": {
         "call_oi": 108.4,
-        "put_oi": 686.8,
-        "call_iv": 45.06,
-        "put_iv": 45.06
+        "put_oi": 690.8,
+        "call_iv": 48.81,
+        "put_iv": 48.81
       },
       "59000": {
         "call_oi": 1.0,
-        "put_oi": 303.6,
-        "call_iv": 56.48,
-        "put_iv": 56.48
+        "put_oi": 301.2,
+        "call_iv": 61.29,
+        "put_iv": 61.29
       },
       "102000": {
         "call_oi": 341.7,
         "put_oi": 0.0,
-        "call_iv": 39.6,
-        "put_iv": 39.6
+        "call_iv": 39.24,
+        "put_iv": 39.24
       },
       "96000": {
-        "call_oi": 403.9,
+        "call_oi": 426.8,
         "put_oi": 0.1,
-        "call_iv": 36.5,
-        "put_iv": 36.5
+        "call_iv": 36.32,
+        "put_iv": 36.32
       },
       "69000": {
         "call_oi": 640.5,
-        "put_oi": 1601.6,
-        "call_iv": 42.52,
-        "put_iv": 42.52
+        "put_oi": 1604.1,
+        "call_iv": 45.87,
+        "put_iv": 45.87
       },
       "63000": {
         "call_oi": 148.3,
-        "put_oi": 650.5,
-        "call_iv": 50.59,
-        "put_iv": 50.59
+        "put_oi": 650.9,
+        "call_iv": 54.96,
+        "put_iv": 54.96
       },
       "79000": {
         "call_oi": 289.1,
-        "put_oi": 686.4,
-        "call_iv": 34.56,
-        "put_iv": 34.56
+        "put_oi": 854.5,
+        "call_iv": 35.73,
+        "put_iv": 35.73
       },
       "98000": {
         "call_oi": 406.8,
         "put_oi": 27.0,
-        "call_iv": 37.41,
-        "put_iv": 37.41
+        "call_iv": 37.17,
+        "put_iv": 37.17
       },
       "61000": {
         "call_oi": 7.7,
         "put_oi": 274.1,
-        "call_iv": 53.43,
-        "put_iv": 53.43
+        "call_iv": 58.16,
+        "put_iv": 58.16
       },
       "92000": {
-        "call_oi": 1703.4,
+        "call_oi": 1778.6,
         "put_oi": 2.6,
-        "call_iv": 35.1,
-        "put_iv": 35.1
+        "call_iv": 35.05,
+        "put_iv": 35.05
       },
       "52000": {
         "call_oi": 0.1,
-        "put_oi": 125.5,
-        "call_iv": 66.5,
-        "put_iv": 66.5
+        "put_oi": 125.9,
+        "call_iv": 72.1,
+        "put_iv": 72.1
       },
       "56000": {
         "call_oi": 0.5,
         "put_oi": 467.3,
-        "call_iv": 60.9,
-        "put_iv": 60.9
+        "call_iv": 66.06,
+        "put_iv": 66.06
       },
       "81000": {
-        "call_oi": 695.4,
-        "put_oi": 361.7,
-        "call_iv": 34.22,
-        "put_iv": 34.22
+        "call_oi": 694.4,
+        "put_oi": 360.1,
+        "call_iv": 34.93,
+        "put_iv": 34.93
       },
       "55000": {
         "call_oi": 0.1,
         "put_oi": 325.3,
-        "call_iv": 62.01,
-        "put_iv": 62.01
+        "call_iv": 67.47,
+        "put_iv": 67.47
       },
       "105000": {
-        "call_oi": 1194.4,
+        "call_oi": 1194.6,
         "put_oi": 0.9,
-        "call_iv": 41.47,
-        "put_iv": 41.47
+        "call_iv": 40.8,
+        "put_iv": 40.8
       },
       "93000": {
-        "call_oi": 537.8,
+        "call_oi": 538.3,
         "put_oi": 2.0,
-        "call_iv": 35.38,
-        "put_iv": 35.38
+        "call_iv": 35.28,
+        "put_iv": 35.28
       },
       "89000": {
-        "call_oi": 659.4,
-        "put_oi": 11.3,
-        "call_iv": 34.41,
-        "put_iv": 34.41
+        "call_oi": 858.5,
+        "put_oi": 11.2,
+        "call_iv": 34.58,
+        "put_iv": 34.58
       },
       "83000": {
         "call_oi": 703.1,
-        "put_oi": 651.0,
-        "call_iv": 34.08,
-        "put_iv": 34.08
+        "put_oi": 657.9,
+        "call_iv": 34.55,
+        "put_iv": 34.55
       },
       "73000": {
         "call_oi": 613.3,
-        "put_oi": 1139.9,
-        "call_iv": 38.04,
-        "put_iv": 38.04
+        "put_oi": 1394.6,
+        "call_iv": 40.88,
+        "put_iv": 40.88
       },
       "115000": {
-        "call_oi": 97.2,
+        "call_oi": 97.7,
         "put_oi": 34.6,
-        "call_iv": 48.39,
-        "put_iv": 48.39
+        "call_iv": 46.45,
+        "put_iv": 46.45
       },
       "77000": {
-        "call_oi": 218.5,
-        "put_oi": 532.9,
-        "call_iv": 35.07,
-        "put_iv": 35.07
+        "call_oi": 213.3,
+        "put_oi": 633.4,
+        "call_iv": 36.92,
+        "put_iv": 36.92
       },
       "72000": {
-        "call_oi": 993.2,
-        "put_oi": 1195.4,
-        "call_iv": 39.13,
-        "put_iv": 39.13
+        "call_oi": 993.0,
+        "put_oi": 1204.0,
+        "call_iv": 41.89,
+        "put_iv": 41.89
       },
       "50000": {
         "call_oi": 1.1,
         "put_oi": 430.4,
-        "call_iv": 69.57,
-        "put_iv": 69.57
+        "call_iv": 75.1,
+        "put_iv": 75.1
       },
       "78000": {
-        "call_oi": 507.4,
-        "put_oi": 1313.7,
-        "call_iv": 34.88,
-        "put_iv": 34.88
+        "call_oi": 499.2,
+        "put_oi": 1415.2,
+        "call_iv": 36.27,
+        "put_iv": 36.27
       },
       "65000": {
         "call_oi": 430.4,
         "put_oi": 643.0,
-        "call_iv": 47.77,
-        "put_iv": 47.77
+        "call_iv": 51.7,
+        "put_iv": 51.7
       },
       "84000": {
-        "call_oi": 1278.4,
-        "put_oi": 614.0,
-        "call_iv": 34.02,
-        "put_iv": 34.02
+        "call_oi": 1282.0,
+        "put_oi": 751.5,
+        "call_iv": 34.52,
+        "put_iv": 34.52
       }
     },
     "25DEC26": {
       "95000": {
-        "call_oi": 1544.9,
+        "call_oi": 1545.0,
         "put_oi": 143.1,
-        "call_iv": 37.22,
-        "put_iv": 37.22
+        "call_iv": 37.27,
+        "put_iv": 37.27
       },
       "70000": {
-        "call_oi": 1885.2,
-        "put_oi": 2014.4,
-        "call_iv": 39.71,
-        "put_iv": 39.71
+        "call_oi": 1885.3,
+        "put_oi": 2112.4,
+        "call_iv": 40.67,
+        "put_iv": 40.67
       },
       "125000": {
         "call_oi": 516.6,
         "put_oi": 9.3,
-        "call_iv": 43.45,
-        "put_iv": 43.45
+        "call_iv": 43.18,
+        "put_iv": 43.18
       },
       "100000": {
-        "call_oi": 6007.5,
+        "call_oi": 5816.5,
         "put_oi": 302.9,
-        "call_iv": 37.81,
-        "put_iv": 37.81
+        "call_iv": 37.78,
+        "put_iv": 37.78
       },
       "58000": {
         "call_oi": 40.3,
-        "put_oi": 1838.8,
-        "call_iv": 47.71,
-        "put_iv": 47.71
+        "put_oi": 1835.2,
+        "call_iv": 49.44,
+        "put_iv": 49.44
       },
       "220000": {
         "call_oi": 252.8,
         "put_oi": 0.0,
-        "call_iv": 66.45,
-        "put_iv": 66.45
+        "call_iv": 65.75,
+        "put_iv": 65.75
       },
       "56000": {
         "call_oi": 42.2,
         "put_oi": 520.5,
-        "call_iv": 49.5,
-        "put_iv": 49.5
+        "call_iv": 51.28,
+        "put_iv": 51.28
       },
       "140000": {
         "call_oi": 1418.3,
         "put_oi": 0.3,
-        "call_iv": 47.88,
-        "put_iv": 47.88
+        "call_iv": 47.21,
+        "put_iv": 47.21
       },
       "76000": {
         "call_oi": 480.6,
         "put_oi": 474.2,
-        "call_iv": 37.98,
-        "put_iv": 37.98
+        "call_iv": 38.42,
+        "put_iv": 38.42
       },
       "250000": {
         "call_oi": 1281.4,
         "put_oi": 10.0,
-        "call_iv": 73.0,
-        "put_iv": 73.0
+        "call_iv": 72.12,
+        "put_iv": 72.12
       },
       "65000": {
         "call_oi": 916.8,
         "put_oi": 891.7,
-        "call_iv": 42.25,
-        "put_iv": 42.25
+        "call_iv": 43.69,
+        "put_iv": 43.69
       },
       "40000": {
         "call_oi": 253.2,
-        "put_oi": 4954.7,
-        "call_iv": 69.6,
-        "put_iv": 69.6
+        "put_oi": 4954.9,
+        "call_iv": 70.67,
+        "put_iv": 70.67
       },
       "135000": {
-        "call_oi": 1438.2,
+        "call_oi": 1440.2,
         "put_oi": 0.7,
-        "call_iv": 46.8,
-        "put_iv": 46.8
+        "call_iv": 46.23,
+        "put_iv": 46.23
       },
       "20000": {
         "call_oi": 5.1,
         "put_oi": 933.0,
-        "call_iv": 109.57,
-        "put_iv": 109.57
+        "call_iv": 111.09,
+        "put_iv": 111.09
       },
       "62000": {
         "call_oi": 247.1,
         "put_oi": 1549.4,
-        "call_iv": 44.29,
-        "put_iv": 44.29
+        "call_iv": 45.97,
+        "put_iv": 45.97
       },
       "60000": {
         "call_oi": 784.1,
-        "put_oi": 6264.0,
-        "call_iv": 46.1,
-        "put_iv": 46.1
+        "put_oi": 6265.1,
+        "call_iv": 47.74,
+        "put_iv": 47.74
       },
       "210000": {
         "call_oi": 162.4,
         "put_oi": 0.0,
-        "call_iv": 64.1,
-        "put_iv": 64.1
+        "call_iv": 63.72,
+        "put_iv": 63.72
       },
       "80000": {
         "call_oi": 8727.2,
-        "put_oi": 1871.1,
-        "call_iv": 37.42,
-        "put_iv": 37.42
+        "put_oi": 1901.9,
+        "call_iv": 37.64,
+        "put_iv": 37.64
       },
       "105000": {
-        "call_oi": 962.4,
+        "call_oi": 961.0,
         "put_oi": 107.5,
-        "call_iv": 38.75,
-        "put_iv": 38.75
+        "call_iv": 38.56,
+        "put_iv": 38.56
       },
       "200000": {
         "call_oi": 961.3,
         "put_oi": 0.0,
-        "call_iv": 62.61,
-        "put_iv": 62.61
+        "call_iv": 61.6,
+        "put_iv": 61.6
       },
       "170000": {
         "call_oi": 2018.4,
         "put_oi": 0.1,
-        "call_iv": 56.52,
-        "put_iv": 56.52
+        "call_iv": 55.48,
+        "put_iv": 55.48
       },
       "72000": {
         "call_oi": 1214.3,
-        "put_oi": 887.7,
-        "call_iv": 39.12,
-        "put_iv": 39.12
+        "put_oi": 878.0,
+        "call_iv": 39.74,
+        "put_iv": 39.74
       },
       "104000": {
-        "call_oi": 169.3,
+        "call_oi": 169.5,
         "put_oi": 0.3,
-        "call_iv": 38.3,
-        "put_iv": 38.3
+        "call_iv": 38.38,
+        "put_iv": 38.38
       },
       "85000": {
-        "call_oi": 3095.0,
-        "put_oi": 556.8,
-        "call_iv": 36.96,
-        "put_iv": 36.96
+        "call_oi": 3190.8,
+        "put_oi": 557.4,
+        "call_iv": 37.09,
+        "put_iv": 37.09
       },
       "84000": {
-        "call_oi": 1256.5,
-        "put_oi": 150.3,
-        "call_iv": 37.01,
-        "put_iv": 37.01
+        "call_oi": 1257.7,
+        "put_oi": 149.3,
+        "call_iv": 37.16,
+        "put_iv": 37.16
       },
       "130000": {
         "call_oi": 1569.1,
         "put_oi": 57.0,
-        "call_iv": 45.0,
-        "put_iv": 45.0
+        "call_iv": 44.49,
+        "put_iv": 44.49
       },
       "92000": {
-        "call_oi": 783.3,
+        "call_oi": 783.9,
         "put_oi": 24.6,
-        "call_iv": 37.11,
-        "put_iv": 37.11
+        "call_iv": 37.1,
+        "put_iv": 37.1
       },
       "86000": {
-        "call_oi": 506.1,
-        "put_oi": 77.2,
-        "call_iv": 36.94,
-        "put_iv": 36.94
+        "call_oi": 497.0,
+        "put_oi": 105.4,
+        "call_iv": 37.04,
+        "put_iv": 37.04
       },
       "74000": {
         "call_oi": 137.9,
-        "put_oi": 186.8,
-        "call_iv": 38.42,
-        "put_iv": 38.42
+        "put_oi": 185.8,
+        "call_iv": 39.01,
+        "put_iv": 39.01
       },
       "54000": {
         "call_oi": 32.2,
-        "put_oi": 1905.2,
-        "call_iv": 51.29,
-        "put_iv": 51.29
+        "put_oi": 1907.3,
+        "call_iv": 53.18,
+        "put_iv": 53.18
       },
       "45000": {
         "call_oi": 94.5,
-        "put_oi": 2812.7,
-        "call_iv": 61.23,
-        "put_iv": 61.23
+        "put_oi": 2812.3,
+        "call_iv": 63.81,
+        "put_iv": 63.81
       },
       "68000": {
         "call_oi": 1023.2,
-        "put_oi": 696.2,
-        "call_iv": 40.77,
-        "put_iv": 40.77
+        "put_oi": 696.7,
+        "call_iv": 41.71,
+        "put_iv": 41.71
       },
       "115000": {
-        "call_oi": 2306.0,
+        "call_oi": 2306.3,
         "put_oi": 5.0,
-        "call_iv": 40.69,
-        "put_iv": 40.69
+        "call_iv": 40.59,
+        "put_iv": 40.59
       },
       "102000": {
         "call_oi": 496.8,
         "put_oi": 7.8,
-        "call_iv": 38.04,
-        "put_iv": 38.04
+        "call_iv": 38.06,
+        "put_iv": 38.06
       },
       "190000": {
         "call_oi": 1027.0,
         "put_oi": 0.0,
-        "call_iv": 60.14,
-        "put_iv": 60.14
+        "call_iv": 59.92,
+        "put_iv": 59.92
       },
       "230000": {
         "call_oi": 190.6,
         "put_oi": 0.0,
-        "call_iv": 69.12,
-        "put_iv": 69.12
+        "call_iv": 67.66,
+        "put_iv": 67.66
       },
       "50000": {
         "call_oi": 260.7,
-        "put_oi": 2212.0,
-        "call_iv": 55.41,
-        "put_iv": 55.41
+        "put_oi": 2215.5,
+        "call_iv": 57.42,
+        "put_iv": 57.42
       },
       "64000": {
         "call_oi": 404.9,
-        "put_oi": 390.0,
-        "call_iv": 43.01,
-        "put_iv": 43.01
+        "put_oi": 381.1,
+        "call_iv": 44.31,
+        "put_iv": 44.31
       },
       "240000": {
         "call_oi": 784.8,
         "put_oi": 0.0,
-        "call_iv": 70.67,
-        "put_iv": 70.67
+        "call_iv": 69.96,
+        "put_iv": 69.96
       },
       "150000": {
-        "call_oi": 1715.6,
+        "call_oi": 1735.6,
         "put_oi": 4.4,
-        "call_iv": 51.05,
-        "put_iv": 51.05
+        "call_iv": 49.96,
+        "put_iv": 49.96
       },
       "98000": {
-        "call_oi": 454.1,
+        "call_oi": 472.4,
         "put_oi": 3.0,
         "call_iv": 37.55,
         "put_iv": 37.55
@@ -821,110 +821,110 @@
       "108000": {
         "call_oi": 165.6,
         "put_oi": 0.1,
-        "call_iv": 39.2,
-        "put_iv": 39.2
+        "call_iv": 39.08,
+        "put_iv": 39.08
       },
       "82000": {
         "call_oi": 1321.7,
-        "put_oi": 802.5,
-        "call_iv": 37.14,
-        "put_iv": 37.14
+        "put_oi": 804.1,
+        "call_iv": 37.34,
+        "put_iv": 37.34
       },
       "90000": {
-        "call_oi": 3792.3,
-        "put_oi": 605.8,
-        "call_iv": 36.95,
-        "put_iv": 36.95
+        "call_oi": 3794.3,
+        "put_oi": 604.2,
+        "call_iv": 37.05,
+        "put_iv": 37.05
       },
       "180000": {
         "call_oi": 934.4,
         "put_oi": 0.1,
-        "call_iv": 57.98,
-        "put_iv": 57.98
+        "call_iv": 57.48,
+        "put_iv": 57.48
       },
       "35000": {
         "call_oi": 87.9,
-        "put_oi": 2141.4,
-        "call_iv": 77.35,
-        "put_iv": 77.35
+        "put_oi": 2141.8,
+        "call_iv": 78.21,
+        "put_iv": 78.21
       },
       "110000": {
-        "call_oi": 2962.7,
+        "call_oi": 2963.7,
         "put_oi": 81.6,
-        "call_iv": 39.48,
-        "put_iv": 39.48
+        "call_iv": 39.5,
+        "put_iv": 39.5
       },
       "106000": {
         "call_oi": 615.0,
         "put_oi": 0.2,
-        "call_iv": 38.76,
-        "put_iv": 38.76
+        "call_iv": 38.71,
+        "put_iv": 38.71
       },
       "30000": {
         "call_oi": 300.8,
         "put_oi": 2197.9,
-        "call_iv": 84.62,
-        "put_iv": 84.62
+        "call_iv": 86.88,
+        "put_iv": 86.88
       },
       "52000": {
         "call_oi": 0.1,
-        "put_oi": 434.7,
-        "call_iv": 53.29,
-        "put_iv": 53.29
+        "put_oi": 436.8,
+        "call_iv": 55.24,
+        "put_iv": 55.24
       },
       "94000": {
-        "call_oi": 605.0,
+        "call_oi": 614.7,
         "put_oi": 5.9,
-        "call_iv": 37.23,
-        "put_iv": 37.23
+        "call_iv": 37.21,
+        "put_iv": 37.21
       },
       "96000": {
-        "call_oi": 1584.0,
+        "call_oi": 1585.0,
         "put_oi": 50.8,
-        "call_iv": 37.41,
-        "put_iv": 37.41
+        "call_iv": 37.37,
+        "put_iv": 37.37
       },
       "55000": {
         "call_oi": 122.4,
-        "put_oi": 3189.3,
-        "call_iv": 50.37,
-        "put_iv": 50.37
+        "put_oi": 3197.3,
+        "call_iv": 52.19,
+        "put_iv": 52.19
       },
       "78000": {
         "call_oi": 1087.7,
-        "put_oi": 1461.8,
-        "call_iv": 37.66,
-        "put_iv": 37.66
+        "put_oi": 1458.2,
+        "call_iv": 37.98,
+        "put_iv": 37.98
       },
       "75000": {
         "call_oi": 1924.7,
         "put_oi": 1734.9,
-        "call_iv": 38.19,
-        "put_iv": 38.19
+        "call_iv": 38.7,
+        "put_iv": 38.7
       },
       "120000": {
         "call_oi": 5781.9,
         "put_oi": 35.8,
-        "call_iv": 42.05,
-        "put_iv": 42.05
+        "call_iv": 41.89,
+        "put_iv": 41.89
       },
       "160000": {
         "call_oi": 1280.8,
         "put_oi": 0.1,
-        "call_iv": 53.52,
-        "put_iv": 53.52
+        "call_iv": 52.64,
+        "put_iv": 52.64
       },
       "88000": {
-        "call_oi": 3956.1,
-        "put_oi": 143.6,
-        "call_iv": 36.9,
-        "put_iv": 36.9
+        "call_oi": 3975.2,
+        "put_oi": 146.8,
+        "call_iv": 37.03,
+        "put_iv": 37.03
       },
       "66000": {
         "call_oi": 279.7,
         "put_oi": 419.0,
-        "call_iv": 41.77,
-        "put_iv": 41.77
+        "call_iv": 43.01,
+        "put_iv": 43.01
       }
     }
   },
@@ -934,8 +934,8 @@
     "25DEC26"
   ],
   "skew": {
-    "2OCT26": 6.24,
-    "30OCT26": 1.24,
+    "2OCT26": 6.82,
+    "30OCT26": 2.01,
     "25DEC26": 1.17
   },
   "gamma_flip": {
@@ -945,23 +945,23 @@
   },
   "regime": "POS",
   "gamma_flip_main": 82000,
-  "oi_change": 0.043,
-  "fr_change": -0.00354,
-  "oi_change_pct": 1.53,
-  "perp_basis": 36.58,
-  "perp_basis_pct": 0.0441,
-  "atm_iv_2OCT26": 34.49,
-  "pcr_atm_2OCT26": 0.877,
-  "pcr_otm_2OCT26": 3.64,
-  "pcr_atm_30OCT26": 0.32,
-  "pcr_otm_30OCT26": 0.417,
-  "pcr_atm_25DEC26": 0.301,
-  "pcr_otm_25DEC26": 0.911,
-  "max_pain_2OCT26": 82000,
+  "oi_change": -0.0952,
+  "fr_change": -0.000588,
+  "oi_change_pct": -3.34,
+  "perp_basis": 50.4,
+  "perp_basis_pct": 0.0596,
+  "atm_iv_2OCT26": 34.15,
+  "pcr_atm_2OCT26": 0.856,
+  "pcr_otm_2OCT26": 6.101,
+  "pcr_atm_30OCT26": 0.28,
+  "pcr_otm_30OCT26": 0.508,
+  "pcr_atm_25DEC26": 0.233,
+  "pcr_otm_25DEC26": 0.992,
+  "max_pain_2OCT26": 83000,
   "max_pain_30OCT26": 75000,
   "max_pain_25DEC26": 75000,
-  "oi_concentration_2OCT26": 28.9,
-  "oi_concentration_30OCT26": 46.9,
-  "oi_concentration_25DEC26": 20.1,
-  "timestamp": "2026-09-30T06:46:12.753068+00:00"
+  "oi_concentration_2OCT26": 28.0,
+  "oi_concentration_30OCT26": 46.3,
+  "oi_concentration_25DEC26": 19.9,
+  "timestamp": "2026-09-30T13:47:25.593407+00:00"
 }
