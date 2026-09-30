@@ -4,15 +4,12 @@
     "uft_median": 60288
   },
   "count": 284,
-  "last_spot": 84567.34,
-  "last_fr": 0.0053274941978599995,
+  "last_spot": 83666.455,
+  "last_fr": 0.006563192639189999,
   "last_ls": 0,
-  "last_oi": 2.7537,
-  "hard_triggers": [
-    "Spot\u79fb\u52d5+1,597\uff08>1,142=0.5\u03c3\uff09",
-    "OI\u8df3\u52d5+952\u5f35\uff082.85\u21922.75\u842c\uff09"
-  ],
-  "last_trigger_ts": "2026-09-30T13:47:25.593407+00:00",
+  "last_oi": 2.7538,
+  "hard_triggers": [],
+  "last_trigger_ts": "2026-09-30T19:23:49.741012+00:00",
   "fr_armed": {
     "-0.01": true,
     "-0.005": true,
