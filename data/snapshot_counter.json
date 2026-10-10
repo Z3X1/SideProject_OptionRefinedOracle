@@ -1,20 +1,22 @@
 {
-  "last_snapshot": 306,
+  "last_snapshot": 307,
   "last_data": {
     "uft_median": 60288
   },
-  "count": 306,
-  "last_spot": 82738.455,
-  "last_fr": 0.00650247510273,
+  "count": 307,
+  "last_spot": 82882.215,
+  "last_fr": 0.0033514889615,
   "last_ls": 0,
-  "last_oi": 3.0057,
-  "hard_triggers": [],
-  "last_trigger_ts": "2026-10-10T08:32:40.633412+00:00",
+  "last_oi": 3.0196,
+  "hard_triggers": [
+    "FR\u7a7f\u8d8a+0.005%\uff08+0.00650\u2192+0.00335\uff09"
+  ],
+  "last_trigger_ts": "2026-10-10T15:24:13.087176+00:00",
   "fr_armed": {
     "-0.01": true,
     "-0.005": true,
     "0.0": true,
-    "0.005": true,
+    "0.005": false,
     "0.01": true
   },
   "t_forced_fired": {
