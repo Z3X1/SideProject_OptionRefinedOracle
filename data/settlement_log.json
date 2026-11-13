@@ -12189,7 +12189,7 @@
       "sigma": 3932.98,
       "regime_at_prediction": "POS",
       "spot_at_record": 75658.01,
-      "actual_settlement": null,
+      "actual_settlement": 68709.64,
       "components": {
         "gbm": 21184.24,
         "gex": 14800.0,
@@ -12215,8 +12215,10 @@
         "gamma_flip": 72559.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 1.7402,
+      "error_usd": 6844.03,
+      "emh_error_usd": 6948.37,
+      "beats_emh": true
     },
     {
       "snapshot_num": 370,
@@ -12228,7 +12230,7 @@
       "sigma": 2959.98,
       "regime_at_prediction": "NEG",
       "spot_at_record": 73766.76,
-      "actual_settlement": null,
+      "actual_settlement": 68709.64,
       "components": {
         "gbm": 18441.69,
         "gex": 11100.0,
@@ -12254,8 +12256,10 @@
         "gamma_flip": 74705.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 1.8092,
+      "error_usd": 5355.31,
+      "emh_error_usd": 5057.12,
+      "beats_emh": false
     },
     {
       "snapshot_num": 371,
@@ -12267,7 +12271,7 @@
       "sigma": 2637.98,
       "regime_at_prediction": "POS",
       "spot_at_record": 74368.2,
-      "actual_settlement": null,
+      "actual_settlement": 68709.64,
       "components": {
         "gbm": 20823.09,
         "gex": 14800.0,
@@ -12293,8 +12297,10 @@
         "gamma_flip": 74316.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 2.2483,
+      "error_usd": 5931.02,
+      "emh_error_usd": 5658.56,
+      "beats_emh": false
     },
     {
       "snapshot_num": 372,
@@ -12306,7 +12312,7 @@
       "sigma": 2647.88,
       "regime_at_prediction": "NEG",
       "spot_at_record": 73053.73,
-      "actual_settlement": null,
+      "actual_settlement": 68709.64,
       "components": {
         "gbm": 18263.43,
         "gex": 11100.0,
@@ -12332,8 +12338,10 @@
         "gamma_flip": 74400.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 1.7067,
+      "error_usd": 4519.08,
+      "emh_error_usd": 4344.09,
+      "beats_emh": false
     },
     {
       "snapshot_num": 373,
@@ -12345,7 +12353,7 @@
       "sigma": 2671.56,
       "regime_at_prediction": "NEG",
       "spot_at_record": 73600.79,
-      "actual_settlement": null,
+      "actual_settlement": 68709.64,
       "components": {
         "gbm": 18400.2,
         "gex": 11100.0,
@@ -12371,8 +12379,10 @@
         "gamma_flip": 74301.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 1.8888,
+      "error_usd": 5045.96,
+      "emh_error_usd": 4891.15,
+      "beats_emh": false
     },
     {
       "snapshot_num": 374,
@@ -12384,7 +12394,7 @@
       "sigma": 2182.11,
       "regime_at_prediction": "NEG",
       "spot_at_record": 73462.48,
-      "actual_settlement": null,
+      "actual_settlement": 68709.64,
       "components": {
         "gbm": 18365.62,
         "gex": 11100.0,
@@ -12410,8 +12420,10 @@
         "gamma_flip": 74388.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 2.3054,
+      "error_usd": 5030.64,
+      "emh_error_usd": 4752.84,
+      "beats_emh": false
     },
     {
       "snapshot_num": 375,
@@ -12423,7 +12435,7 @@
       "sigma": 2206.09,
       "regime_at_prediction": "NEG",
       "spot_at_record": 73993.29,
-      "actual_settlement": null,
+      "actual_settlement": 68709.64,
       "components": {
         "gbm": 18498.32,
         "gex": 11100.0,
@@ -12449,8 +12461,10 @@
         "gamma_flip": 74206.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 2.6412,
+      "error_usd": 5826.71,
+      "emh_error_usd": 5283.65,
+      "beats_emh": false
     },
     {
       "snapshot_num": 376,
@@ -12462,7 +12476,7 @@
       "sigma": 1559.53,
       "regime_at_prediction": "NEG",
       "spot_at_record": 73680.01,
-      "actual_settlement": null,
+      "actual_settlement": 68709.64,
       "components": {
         "gbm": 18420.0,
         "gex": 11100.0,
@@ -12488,8 +12502,10 @@
         "gamma_flip": 75064.0,
         "contradiction": 0.0
       },
-      "error_sigma": null,
-      "error_usd": null
+      "error_sigma": 3.3764,
+      "error_usd": 5265.53,
+      "emh_error_usd": 4970.37,
+      "beats_emh": false
     },
     {
       "snapshot_num": 378,
@@ -12501,7 +12517,7 @@
       "sigma": 1526.51,
       "regime_at_prediction": "NEG",
       "spot_at_record": 71448.79,
-      "actual_settlement": null,
+      "actual_settlement": 68709.64,
       "components": {
         "gbm": 17862.2,
         "gex": 10800.0,
@@ -12525,6 +12541,47 @@
         "macd_4h": -889.07,
         "regime_pos": 0.0,
         "gamma_flip": 74333.0,
+        "contradiction": 0.0
+      },
+      "error_sigma": 1.9138,
+      "error_usd": 2921.36,
+      "emh_error_usd": 2739.15,
+      "beats_emh": false
+    },
+    {
+      "snapshot_num": 379,
+      "expiry": "20NOV26",
+      "timestamp": "2026-11-13T09:35:08.464222+00:00",
+      "t_days_at_record": 6.93,
+      "predicted_median": 68695.55,
+      "predicted_mode": 70000,
+      "sigma": 4048.99,
+      "regime_at_prediction": "NEG",
+      "spot_at_record": 69004.87,
+      "actual_settlement": null,
+      "components": {
+        "gbm": 17251.22,
+        "gex": 10500.0,
+        "behavior": 21564.02,
+        "bayesian": 10980.31,
+        "timedecay": 8400.0
+      },
+      "weights_used": {
+        "gbm": 0.25,
+        "gex": 0.15,
+        "behavior": 0.32,
+        "bayesian": 0.16,
+        "timedecay": 0.12
+      },
+      "signals": {
+        "fr": -5e-05,
+        "skew": 3.7,
+        "skew_raw": 11.86,
+        "dvol": 42.37057,
+        "pcr_main": 2.85,
+        "macd_4h": -1479.11,
+        "regime_pos": 0.0,
+        "gamma_flip": 72308.0,
         "contradiction": 0.0
       },
       "error_sigma": null,
