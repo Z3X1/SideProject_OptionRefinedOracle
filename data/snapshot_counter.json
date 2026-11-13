@@ -1,24 +1,26 @@
 {
-  "last_snapshot": 378,
+  "last_snapshot": 379,
   "last_data": {
     "uft_median": 60288
   },
-  "count": 378,
-  "last_spot": 71448.795,
-  "last_fr": 0.01,
+  "count": 379,
+  "last_spot": 69004.865,
+  "last_fr": -0.00498387583004,
   "last_ls": 0,
-  "last_oi": 3.7134,
+  "last_oi": 3.4437,
   "hard_triggers": [
-    "Spot\u79fb\u52d5-1,378\uff08>763=0.5\u03c3\uff09",
-    "OI\u8df3\u52d5+969\u5f35\uff083.62\u21923.71\u842c\uff09"
+    "FR\u7a7f\u8d8a+0.000%\uff08+0.01000\u2192-0.00498\uff09",
+    "FR\u7a7f\u8d8a+0.005%\uff08+0.01000\u2192-0.00498\uff09",
+    "Spot\u79fb\u52d5-2,444\uff08>2,024=0.5\u03c3\uff09",
+    "OI\u8df3\u52d5+2,697\u5f35\uff083.71\u21923.44\u842c\uff09"
   ],
-  "last_trigger_ts": "2026-11-12T20:51:02.435902+00:00",
+  "last_trigger_ts": "2026-11-13T09:35:08.264615+00:00",
   "fr_armed": {
     "-0.01": true,
     "-0.005": true,
-    "0.0": true,
-    "0.005": true,
-    "0.01": false
+    "0.0": false,
+    "0.005": false,
+    "0.01": true
   },
   "t_forced_fired": {
     "10JUL26": [
